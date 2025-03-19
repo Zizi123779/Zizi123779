@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning how to use GitHub!
 <!--
 **Zizi123779/Zizi123779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
